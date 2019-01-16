@@ -1,1 +1,1 @@
-# vtex-giftcard-provider
+# VTEX GiftCard System PHP Library
